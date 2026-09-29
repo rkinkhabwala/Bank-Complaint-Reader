@@ -1,0 +1,38 @@
+source_product,source_sub_product,canonical_product,canonical_product_code
+Bank account or service,*,Checking or savings account,checking_savings
+Checking or savings account,*,Checking or savings account,checking_savings
+Consumer Loan,*,"Payday loan, title loan, personal loan, or advance loan",payday_personal_loan
+Credit card,*,Credit card,credit_card
+Credit card or prepaid card,*,Credit card,credit_card
+Credit reporting,*,Credit reporting or other personal consumer reports,credit_reporting
+Credit reporting or other personal consumer reports,*,Credit reporting or other personal consumer reports,credit_reporting
+"Credit reporting, credit repair services, or other personal consumer reports",*,Credit reporting or other personal consumer reports,credit_reporting
+Debt collection,*,Debt collection,debt_collection
+Debt or credit management,*,Debt or credit management,debt_credit_management
+"Money transfer, virtual currency, or money service",*,"Money transfer, virtual currency, or money service",money_transfer
+Money transfers,*,"Money transfer, virtual currency, or money service",money_transfer
+Mortgage,*,Mortgage,mortgage
+Other financial service,*,"Money transfer, virtual currency, or money service",money_transfer
+Payday loan,*,"Payday loan, title loan, personal loan, or advance loan",payday_personal_loan
+"Payday loan, title loan, or personal loan",*,"Payday loan, title loan, personal loan, or advance loan",payday_personal_loan
+"Payday loan, title loan, personal loan, or advance loan",*,"Payday loan, title loan, personal loan, or advance loan",payday_personal_loan
+Prepaid card,*,Prepaid card,prepaid_card
+Student loan,*,Student loan,student_loan
+Vehicle loan or lease,*,Vehicle loan or lease,vehicle_loan
+Virtual currency,*,"Money transfer, virtual currency, or money service",money_transfer
+Bank account or service,Cashing a check without an account,"Money transfer, virtual currency, or money service",money_transfer
+Consumer Loan,Vehicle lease,Vehicle loan or lease,vehicle_loan
+Consumer Loan,Vehicle loan,Vehicle loan or lease,vehicle_loan
+Credit card or prepaid card,General-purpose prepaid card,Prepaid card,prepaid_card
+Credit card or prepaid card,Gift card,Prepaid card,prepaid_card
+Credit card or prepaid card,Government benefit card,Prepaid card,prepaid_card
+Credit card or prepaid card,Payroll card,Prepaid card,prepaid_card
+Credit card or prepaid card,Student prepaid card,Prepaid card,prepaid_card
+"Credit reporting, credit repair services, or other personal consumer reports",Credit repair services,Debt or credit management,debt_credit_management
+"Money transfer, virtual currency, or money service",Debt settlement,Debt or credit management,debt_credit_management
+"Money transfer, virtual currency, or money service",Refund anticipation check,"Payday loan, title loan, personal loan, or advance loan",payday_personal_loan
+Other financial service,Credit repair,Debt or credit management,debt_credit_management
+Other financial service,Debt settlement,Debt or credit management,debt_credit_management
+Other financial service,Refund anticipation check,"Payday loan, title loan, personal loan, or advance loan",payday_personal_loan
+Prepaid card,Mobile wallet,"Money transfer, virtual currency, or money service",money_transfer
+Vehicle loan or lease,Title loan,"Payday loan, title loan, personal loan, or advance loan",payday_personal_loan

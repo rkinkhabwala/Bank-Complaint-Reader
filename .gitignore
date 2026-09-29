@@ -1,0 +1,24 @@
+# Secrets / local config
+.env
+.databrickscfg
+
+# Databricks bundle state
+.databricks/
+
+# Local data (bulk downloads, split parts, manifests)
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+build/
+dist/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store

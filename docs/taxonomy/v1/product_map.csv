@@ -1,0 +1,38 @@
+source_product,source_sub_product,canonical_product,canonical_product_code,rule,rows,first_seen,last_seen
+Bank account or service,*,Checking or savings account,checking_savings,product default,,,
+Checking or savings account,*,Checking or savings account,checking_savings,product default,,,
+Consumer Loan,*,"Payday loan, title loan, personal loan, or advance loan",payday_personal_loan,product default,,,
+Credit card,*,Credit card,credit_card,product default,,,
+Credit card or prepaid card,*,Credit card,credit_card,product default,,,
+Credit reporting,*,Credit reporting or other personal consumer reports,credit_reporting,product default,,,
+Credit reporting or other personal consumer reports,*,Credit reporting or other personal consumer reports,credit_reporting,product default,,,
+"Credit reporting, credit repair services, or other personal consumer reports",*,Credit reporting or other personal consumer reports,credit_reporting,product default,,,
+Debt collection,*,Debt collection,debt_collection,product default,,,
+Debt or credit management,*,Debt or credit management,debt_credit_management,product default,,,
+"Money transfer, virtual currency, or money service",*,"Money transfer, virtual currency, or money service",money_transfer,product default,,,
+Money transfers,*,"Money transfer, virtual currency, or money service",money_transfer,product default,,,
+Mortgage,*,Mortgage,mortgage,product default,,,
+Other financial service,*,"Money transfer, virtual currency, or money service",money_transfer,product default,,,
+Payday loan,*,"Payday loan, title loan, personal loan, or advance loan",payday_personal_loan,product default,,,
+"Payday loan, title loan, or personal loan",*,"Payday loan, title loan, personal loan, or advance loan",payday_personal_loan,product default,,,
+"Payday loan, title loan, personal loan, or advance loan",*,"Payday loan, title loan, personal loan, or advance loan",payday_personal_loan,product default,,,
+Prepaid card,*,Prepaid card,prepaid_card,product default,,,
+Student loan,*,Student loan,student_loan,product default,,,
+Vehicle loan or lease,*,Vehicle loan or lease,vehicle_loan,product default,,,
+Virtual currency,*,"Money transfer, virtual currency, or money service",money_transfer,product default,,,
+Bank account or service,Cashing a check without an account,"Money transfer, virtual currency, or money service",money_transfer,sub-product override,625,2012-03-01,2017-04-18
+Consumer Loan,Vehicle lease,Vehicle loan or lease,vehicle_loan,sub-product override,2654,2012-03-02,2017-04-21
+Consumer Loan,Vehicle loan,Vehicle loan or lease,vehicle_loan,sub-product override,17769,2012-03-01,2017-04-21
+Credit card or prepaid card,General-purpose prepaid card,Prepaid card,prepaid_card,sub-product override,8530,2017-04-25,2023-08-24
+Credit card or prepaid card,Gift card,Prepaid card,prepaid_card,sub-product override,1021,2017-04-25,2023-08-24
+Credit card or prepaid card,Government benefit card,Prepaid card,prepaid_card,sub-product override,9067,2017-04-25,2023-08-24
+Credit card or prepaid card,Payroll card,Prepaid card,prepaid_card,sub-product override,917,2017-04-26,2023-08-23
+Credit card or prepaid card,Student prepaid card,Prepaid card,prepaid_card,sub-product override,32,2018-06-25,2023-08-19
+"Credit reporting, credit repair services, or other personal consumer reports",Credit repair services,Debt or credit management,debt_credit_management,sub-product override,5064,2017-04-24,2023-08-24
+"Money transfer, virtual currency, or money service",Debt settlement,Debt or credit management,debt_credit_management,sub-product override,946,2017-04-26,2023-08-24
+"Money transfer, virtual currency, or money service",Refund anticipation check,"Payday loan, title loan, personal loan, or advance loan",payday_personal_loan,sub-product override,627,2017-05-04,2023-08-24
+Other financial service,Credit repair,Debt or credit management,debt_credit_management,sub-product override,102,2014-08-04,2017-04-21
+Other financial service,Debt settlement,Debt or credit management,debt_credit_management,sub-product override,331,2014-07-21,2017-04-21
+Other financial service,Refund anticipation check,"Payday loan, title loan, personal loan, or advance loan",payday_personal_loan,sub-product override,68,2014-07-19,2017-03-28
+Prepaid card,Mobile wallet,"Money transfer, virtual currency, or money service",money_transfer,sub-product override,418,2014-07-21,2017-04-21
+Vehicle loan or lease,Title loan,"Payday loan, title loan, personal loan, or advance loan",payday_personal_loan,sub-product override,46,2017-07-25,2022-09-19

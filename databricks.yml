@@ -1,0 +1,55 @@
+# Complaint Radar — Declarative Automation Bundle (formerly "Databricks Asset Bundles").
+#
+# Syntax verified 2026-09-29 against:
+#   - Bundle settings:   https://docs.databricks.com/aws/en/dev-tools/bundles/settings
+#   - Deployment modes:  https://docs.databricks.com/aws/en/dev-tools/bundles/deployment-modes
+#   - Pipeline resource: CLI JSON schema, bundle/schema/jsonschema.json in github.com/databricks/cli
+#                        (main, CLI v1.18.0); the docs page truncates before the pipeline section
+#   - Multi-schema publishing: https://docs.databricks.com/aws/en/ldp/target-schema
+#
+# UC objects (catalog, schemas, landing Volume) are NOT bundle resources on purpose: they hold
+# the full bulk history and must outlive `bundle destroy`. See setup/create_uc_objects.sql.
+
+bundle:
+  name: complaint_radar
+
+variables:
+  catalog:
+    description: Unity Catalog catalog for all project data.
+    default: complaint_radar
+  landing_path:
+    description: Root of the landing Volume (bulk CSV parts, daily API deltas, seeds).
+    default: /Volumes/complaint_radar/raw/landing
+
+resources:
+  pipelines:
+    complaint_radar_pipeline:
+      name: complaint_radar_pipeline
+      # Free Edition allows one active pipeline per type, so bronze, silver and gold share one pipeline.
+      serverless: true
+      catalog: ${var.catalog}
+      # Default schema. Datasets in other schemas use fully qualified names (silver.*, gold.*).
+      schema: bronze
+      # Triggered, not continuous: `continuous` defaults to false and is deprecated in the schema.
+      # A continuous pipeline would burn the Free Edition daily quota.
+      libraries:
+        - glob:
+            include: pipelines/bronze.sql
+        - glob:
+            include: pipelines/silver.sql
+      configuration:
+        # Referenced in SQL as ${landing_path}; see https://docs.databricks.com/aws/en/ldp/parameters
+        # (`configuration` is used over the Beta `parameters` field.)
+        landing_path: ${var.landing_path}
+      # Keep the streaming tables if the pipeline is destroyed; re-ingesting full history is costly.
+      cascade_on_destroy: false
+
+targets:
+  dev:
+    # Development mode: pipeline name gets the "[dev <user>]" prefix, development=true (clusters
+    # reused, no automatic retries), deployment lock disabled.
+    mode: development
+    default: true
+    workspace:
+      # Auth comes from ~/.databrickscfg via `databricks auth login --profile complaint-radar`.
+      profile: complaint-radar

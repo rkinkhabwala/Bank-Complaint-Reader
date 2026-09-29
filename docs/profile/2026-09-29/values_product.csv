@@ -1,0 +1,22 @@
+value,rows,first_seen,last_seen
+Credit card,346797,2011-12-01,2026-09-28
+Mortgage,461484,2011-12-01,2026-09-28
+Bank account or service,86198,2012-03-01,2017-04-22
+Consumer Loan,31559,2012-03-01,2017-04-21
+Student loan,134073,2012-03-01,2026-09-28
+Credit reporting,140426,2012-10-22,2017-04-22
+Money transfers,5354,2013-04-04,2017-04-21
+Debt collection,1201505,2013-07-10,2026-09-28
+Payday loan,5528,2013-11-06,2017-04-21
+Other financial service,1056,2014-07-19,2017-04-21
+Prepaid card,23375,2014-07-20,2026-09-27
+Virtual currency,18,2014-08-15,2017-04-03
+Checking or savings account,399016,2017-04-21,2026-09-28
+Credit card or prepaid card,206356,2017-04-24,2023-08-25
+"Credit reporting, credit repair services, or other personal consumer reports",2163770,2017-04-24,2023-08-25
+"Money transfer, virtual currency, or money service",192595,2017-04-24,2026-09-28
+"Payday loan, title loan, or personal loan",30614,2017-04-24,2023-08-24
+Vehicle loan or lease,103777,2017-04-24,2026-09-28
+Credit reporting or other personal consumer reports,12479956,2023-08-24,2026-09-29
+Debt or credit management,10395,2023-08-25,2026-09-27
+"Payday loan, title loan, personal loan, or advance loan",38456,2023-08-25,2026-09-28

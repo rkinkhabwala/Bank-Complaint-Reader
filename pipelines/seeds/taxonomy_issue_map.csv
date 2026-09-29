@@ -1,0 +1,294 @@
+canonical_product,source_issue,canonical_issue,issue_group,mapping
+Checking or savings account,"Account opening, closing, or management",Managing an account,account_management_and_servicing,renamed
+Checking or savings account,Closing an account,Closing an account,account_management_and_servicing,current
+Checking or savings account,Credit monitoring or identity theft protection services,Credit monitoring or identity theft protection services,credit_report_access_and_use,current
+Checking or savings account,Deposits and withdrawals,Managing an account,account_management_and_servicing,renamed
+Checking or savings account,Getting a line of credit,Getting a line of credit,origination,legacy_kept
+Checking or savings account,Improper use of your report,Improper use of your report,credit_report_access_and_use,current
+Checking or savings account,Incorrect information on your report,Incorrect information on your report,credit_report_accuracy,current
+Checking or savings account,"Making/receiving payments, sending money",Managing an account,account_management_and_servicing,renamed
+Checking or savings account,Managing an account,Managing an account,account_management_and_servicing,current
+Checking or savings account,Opening an account,Opening an account,origination,current
+Checking or savings account,Problem caused by your funds being low,Problem caused by your funds being low,fees_and_interest,current
+Checking or savings account,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,dispute_investigation,current
+Checking or savings account,Problem with a credit reporting company's investigation into an existing problem,Problem with a company's investigation into an existing problem,dispute_investigation,renamed
+Checking or savings account,Problem with a lender or other company charging your account,Problem with a lender or other company charging your account,payments_and_billing,current
+Checking or savings account,Problem with credit report or credit score,Incorrect information on your report,credit_report_accuracy,renamed
+Checking or savings account,Problem with fraud alerts or security freezes,Problem with fraud alerts or security freezes,credit_report_access_and_use,current
+Checking or savings account,Problems caused by my funds being low,Problem caused by your funds being low,fees_and_interest,renamed
+Checking or savings account,Unable to get your credit report or credit score,Unable to get your credit report or credit score,credit_report_access_and_use,current
+Checking or savings account,Using a debit or ATM card,Managing an account,account_management_and_servicing,renamed
+Credit card,APR or interest rate,Fees or interest,fees_and_interest,renamed
+Credit card,Advertising and marketing,"Advertising and marketing, including promotional offers",marketing_and_disclosures,renamed
+Credit card,"Advertising and marketing, including promotional offers","Advertising and marketing, including promotional offers",marketing_and_disclosures,current
+Credit card,Application processing delay,Getting a credit card,origination,renamed
+Credit card,Arbitration,"Other features, terms, or problems",account_management_and_servicing,renamed
+Credit card,Balance transfer,"Other features, terms, or problems",account_management_and_servicing,renamed
+Credit card,Balance transfer fee,Fees or interest,fees_and_interest,renamed
+Credit card,Bankruptcy,Struggling to pay your bill,hardship_and_default,renamed
+Credit card,Billing disputes,Problem with a purchase shown on your statement,payments_and_billing,renamed
+Credit card,Billing statement,Problem with a purchase shown on your statement,payments_and_billing,renamed
+Credit card,Cash advance,"Other features, terms, or problems",account_management_and_servicing,renamed
+Credit card,Cash advance fee,Fees or interest,fees_and_interest,renamed
+Credit card,Closing your account,Closing your account,account_management_and_servicing,current
+Credit card,Closing/Cancelling account,Closing your account,account_management_and_servicing,renamed
+Credit card,Collection debt dispute,Collection debt dispute,debt_collection_conduct,legacy_kept
+Credit card,Collection practices,Collection practices,debt_collection_conduct,legacy_kept
+Credit card,Convenience checks,"Other features, terms, or problems",account_management_and_servicing,renamed
+Credit card,Credit card protection / Debt protection,"Other features, terms, or problems",account_management_and_servicing,renamed
+Credit card,Credit determination,Getting a credit card,origination,renamed
+Credit card,Credit line increase/decrease,"Other features, terms, or problems",account_management_and_servicing,renamed
+Credit card,Credit monitoring or identity theft protection services,Credit monitoring or identity theft protection services,credit_report_access_and_use,current
+Credit card,Credit reporting,Incorrect information on your report,credit_report_accuracy,renamed
+Credit card,Customer service / Customer relations,"Other features, terms, or problems",account_management_and_servicing,renamed
+Credit card,Delinquent account,Struggling to pay your bill,hardship_and_default,renamed
+Credit card,Fees or interest,Fees or interest,fees_and_interest,current
+Credit card,Forbearance / Workout plans,Struggling to pay your bill,hardship_and_default,renamed
+Credit card,Getting a credit card,Getting a credit card,origination,current
+Credit card,Identity theft / Fraud / Embezzlement,Identity theft / Fraud / Embezzlement,fraud_and_unauthorized,legacy_kept
+Credit card,Improper use of your report,Improper use of your report,credit_report_access_and_use,current
+Credit card,Incorrect information on your report,Incorrect information on your report,credit_report_accuracy,current
+Credit card,Late fee,Fees or interest,fees_and_interest,renamed
+Credit card,"Managing, opening, or closing your mobile wallet account","Managing, opening, or closing your mobile wallet account",transactions_and_funds,legacy_kept
+Credit card,Other,"Other features, terms, or problems",account_management_and_servicing,renamed
+Credit card,"Other features, terms, or problems","Other features, terms, or problems",account_management_and_servicing,current
+Credit card,Other fee,Fees or interest,fees_and_interest,renamed
+Credit card,Overlimit fee,Fees or interest,fees_and_interest,renamed
+Credit card,Payoff process,Problem when making payments,payments_and_billing,renamed
+Credit card,Privacy,"Other features, terms, or problems",account_management_and_servicing,renamed
+Credit card,Problem when making payments,Problem when making payments,payments_and_billing,current
+Credit card,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,dispute_investigation,current
+Credit card,Problem with a credit reporting company's investigation into an existing problem,Problem with a company's investigation into an existing problem,dispute_investigation,renamed
+Credit card,Problem with a purchase shown on your statement,Problem with a purchase shown on your statement,payments_and_billing,current
+Credit card,Problem with credit report or credit score,Incorrect information on your report,credit_report_accuracy,renamed
+Credit card,Problem with fraud alerts or security freezes,Problem with fraud alerts or security freezes,credit_report_access_and_use,current
+Credit card,Rewards,"Other features, terms, or problems",account_management_and_servicing,renamed
+Credit card,Sale of account,"Other features, terms, or problems",account_management_and_servicing,renamed
+Credit card,Struggling to pay your bill,Struggling to pay your bill,hardship_and_default,current
+Credit card,Transaction issue,Trouble using your card,transactions_and_funds,renamed
+Credit card,Trouble using your card,Trouble using your card,transactions_and_funds,current
+Credit card,Unable to get your credit report or credit score,Unable to get your credit report or credit score,credit_report_access_and_use,current
+Credit card,Unsolicited issuance of credit card,Unsolicited issuance of credit card,fraud_and_unauthorized,legacy_kept
+Credit reporting or other personal consumer reports,"Advertising and marketing, including promotional offers","Advertising and marketing, including promotional offers",marketing_and_disclosures,current
+Credit reporting or other personal consumer reports,Closing an account,Closing an account,account_management_and_servicing,legacy_kept
+Credit reporting or other personal consumer reports,Closing on a mortgage,Closing on a mortgage,origination,legacy_kept
+Credit reporting or other personal consumer reports,Closing your account,Closing your account,account_management_and_servicing,legacy_kept
+Credit reporting or other personal consumer reports,Credit monitoring or identity protection,Credit monitoring or identity theft protection services,credit_report_access_and_use,renamed
+Credit reporting or other personal consumer reports,Credit monitoring or identity theft protection services,Credit monitoring or identity theft protection services,credit_report_access_and_use,current
+Credit reporting or other personal consumer reports,Credit reporting company's investigation,Problem with a company's investigation into an existing problem,dispute_investigation,renamed
+Credit reporting or other personal consumer reports,Dealing with your lender or servicer,Dealing with your lender or servicer,account_management_and_servicing,current
+Credit reporting or other personal consumer reports,Fees or interest,Fees or interest,fees_and_interest,legacy_kept
+Credit reporting or other personal consumer reports,Getting a credit card,Getting a credit card,origination,current
+Credit reporting or other personal consumer reports,Getting a line of credit,Getting a line of credit,origination,legacy_kept
+Credit reporting or other personal consumer reports,Getting a loan,Getting a loan,origination,current
+Credit reporting or other personal consumer reports,Getting a loan or lease,Getting a loan or lease,origination,legacy_kept
+Credit reporting or other personal consumer reports,Getting the loan,Getting the loan,origination,legacy_kept
+Credit reporting or other personal consumer reports,Identity theft protection or other monitoring services,Credit monitoring or identity theft protection services,credit_report_access_and_use,renamed
+Credit reporting or other personal consumer reports,Improper use of my credit report,Improper use of your report,credit_report_access_and_use,renamed
+Credit reporting or other personal consumer reports,Improper use of your report,Improper use of your report,credit_report_access_and_use,current
+Credit reporting or other personal consumer reports,Incorrect information on credit report,Incorrect information on your report,credit_report_accuracy,renamed
+Credit reporting or other personal consumer reports,Incorrect information on your report,Incorrect information on your report,credit_report_accuracy,current
+Credit reporting or other personal consumer reports,Managing an account,Managing an account,account_management_and_servicing,current
+Credit reporting or other personal consumer reports,"Other features, terms, or problems","Other features, terms, or problems",account_management_and_servicing,current
+Credit reporting or other personal consumer reports,Problem when making payments,Problem when making payments,payments_and_billing,legacy_kept
+Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing issue,Problem with a company's investigation into an existing problem,dispute_investigation,renamed
+Credit reporting or other personal consumer reports,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,dispute_investigation,current
+Credit reporting or other personal consumer reports,Problem with a credit reporting company's investigation into an existing problem,Problem with a company's investigation into an existing problem,dispute_investigation,renamed
+Credit reporting or other personal consumer reports,Problem with a purchase shown on your statement,Problem with a purchase shown on your statement,payments_and_billing,current
+Credit reporting or other personal consumer reports,Problem with fraud alerts or security freezes,Problem with fraud alerts or security freezes,credit_report_access_and_use,current
+Credit reporting or other personal consumer reports,Problem with the payoff process at the end of the loan,Problem with the payoff process at the end of the loan,payments_and_billing,legacy_kept
+Credit reporting or other personal consumer reports,Problems at the end of the loan or lease,Problems at the end of the loan or lease,account_management_and_servicing,current
+Credit reporting or other personal consumer reports,Struggling to pay mortgage,Struggling to pay mortgage,hardship_and_default,legacy_kept
+Credit reporting or other personal consumer reports,Struggling to pay your loan,Struggling to pay your loan,hardship_and_default,legacy_kept
+Credit reporting or other personal consumer reports,Struggling to repay your loan,Struggling to repay your loan,hardship_and_default,current
+Credit reporting or other personal consumer reports,Trouble during payment process,Trouble during payment process,payments_and_billing,legacy_kept
+Credit reporting or other personal consumer reports,Trouble using your card,Trouble using your card,transactions_and_funds,legacy_kept
+Credit reporting or other personal consumer reports,Unable to get credit report/credit score,Unable to get your credit report or credit score,credit_report_access_and_use,renamed
+Credit reporting or other personal consumer reports,Unable to get your credit report or credit score,Unable to get your credit report or credit score,credit_report_access_and_use,current
+Debt collection,Attempts to collect debt not owed,Attempts to collect debt not owed,debt_collection_conduct,current
+Debt collection,Communication tactics,Communication tactics,debt_collection_conduct,current
+Debt collection,Cont'd attempts collect debt not owed,Attempts to collect debt not owed,debt_collection_conduct,renamed
+Debt collection,Disclosure verification of debt,Written notification about debt,debt_collection_conduct,renamed
+Debt collection,Electronic communications,Electronic communications,debt_collection_conduct,current
+Debt collection,False statements or representation,False statements or representation,debt_collection_conduct,current
+Debt collection,Improper contact or sharing of info,Improper contact or sharing of info,debt_collection_conduct,legacy_kept
+Debt collection,Taking/threatening an illegal action,Took or threatened to take negative or legal action,debt_collection_conduct,renamed
+Debt collection,Threatened to contact someone or share information improperly,Threatened to contact someone or share information improperly,debt_collection_conduct,current
+Debt collection,Took or threatened to take negative or legal action,Took or threatened to take negative or legal action,debt_collection_conduct,current
+Debt collection,Written notification about debt,Written notification about debt,debt_collection_conduct,current
+Debt or credit management,Advertising and marketing,Confusing or misleading advertising or marketing,marketing_and_disclosures,renamed
+Debt or credit management,Charged upfront or unexpected fees,Charged upfront or unexpected fees,fees_and_interest,current
+Debt or credit management,Confusing or misleading advertising or marketing,Confusing or misleading advertising or marketing,marketing_and_disclosures,current
+Debt or credit management,Confusing or missing disclosures,Confusing or missing disclosures,marketing_and_disclosures,current
+Debt or credit management,Customer service/Customer relations,Problem with customer service,account_management_and_servicing,renamed
+Debt or credit management,Didn't provide services promised,Didn't provide services promised,account_management_and_servicing,current
+Debt or credit management,Disclosures,Confusing or missing disclosures,marketing_and_disclosures,renamed
+Debt or credit management,Excessive fees,Charged upfront or unexpected fees,fees_and_interest,renamed
+Debt or credit management,Fraud or scam,Fraud or scam,fraud_and_unauthorized,legacy_kept
+Debt or credit management,Problem with customer service,Problem with customer service,account_management_and_servicing,current
+Debt or credit management,Unauthorized withdrawals or charges,Unauthorized withdrawals or charges,fraud_and_unauthorized,current
+Debt or credit management,Unexpected or other fees,Charged upfront or unexpected fees,fees_and_interest,renamed
+Debt or credit management,Unexpected/Other fees,Charged upfront or unexpected fees,fees_and_interest,renamed
+"Money transfer, virtual currency, or money service","Account opening, closing, or management","Account opening, closing, or management",account_management_and_servicing,legacy_kept
+"Money transfer, virtual currency, or money service",Adding money,Problem adding money,transactions_and_funds,renamed
+"Money transfer, virtual currency, or money service",Advertising and marketing,Confusing or misleading advertising or marketing,marketing_and_disclosures,renamed
+"Money transfer, virtual currency, or money service","Advertising, marketing or disclosures",Confusing or misleading advertising or marketing,marketing_and_disclosures,renamed
+"Money transfer, virtual currency, or money service",Confusing or misleading advertising or marketing,Confusing or misleading advertising or marketing,marketing_and_disclosures,current
+"Money transfer, virtual currency, or money service",Confusing or missing disclosures,Confusing or missing disclosures,marketing_and_disclosures,current
+"Money transfer, virtual currency, or money service",Customer service/Customer relations,Problem with customer service,account_management_and_servicing,renamed
+"Money transfer, virtual currency, or money service",Deposits and withdrawals,Deposits and withdrawals,transactions_and_funds,legacy_kept
+"Money transfer, virtual currency, or money service",Disclosures,Confusing or missing disclosures,marketing_and_disclosures,renamed
+"Money transfer, virtual currency, or money service",Excessive fees,Unexpected or other fees,fees_and_interest,renamed
+"Money transfer, virtual currency, or money service",Fees,Unexpected or other fees,fees_and_interest,renamed
+"Money transfer, virtual currency, or money service",Fraud or scam,Fraud or scam,fraud_and_unauthorized,current
+"Money transfer, virtual currency, or money service",Incorrect exchange rate,Incorrect exchange rate,fees_and_interest,current
+"Money transfer, virtual currency, or money service",Incorrect/missing disclosures or info,Confusing or missing disclosures,marketing_and_disclosures,renamed
+"Money transfer, virtual currency, or money service",Lost or stolen check,Lost or stolen money order,fraud_and_unauthorized,renamed
+"Money transfer, virtual currency, or money service",Lost or stolen money order,Lost or stolen money order,fraud_and_unauthorized,current
+"Money transfer, virtual currency, or money service","Making/receiving payments, sending money","Making/receiving payments, sending money",payments_and_billing,legacy_kept
+"Money transfer, virtual currency, or money service","Managing, opening, or closing account","Managing, opening, or closing your mobile wallet account",transactions_and_funds,renamed
+"Money transfer, virtual currency, or money service","Managing, opening, or closing your mobile wallet account","Managing, opening, or closing your mobile wallet account",transactions_and_funds,current
+"Money transfer, virtual currency, or money service",Money was not available when promised,Money was not available when promised,transactions_and_funds,current
+"Money transfer, virtual currency, or money service",Other service issues,Other service problem,account_management_and_servicing,renamed
+"Money transfer, virtual currency, or money service",Other service problem,Other service problem,account_management_and_servicing,current
+"Money transfer, virtual currency, or money service",Other transaction issues,Other transaction problem,transactions_and_funds,renamed
+"Money transfer, virtual currency, or money service",Other transaction problem,Other transaction problem,transactions_and_funds,current
+"Money transfer, virtual currency, or money service","Overdraft, savings or rewards features","Overdraft, savings, or rewards features",fees_and_interest,renamed
+"Money transfer, virtual currency, or money service","Overdraft, savings, or rewards features","Overdraft, savings, or rewards features",fees_and_interest,current
+"Money transfer, virtual currency, or money service",Problem adding money,Problem adding money,transactions_and_funds,current
+"Money transfer, virtual currency, or money service",Problem with customer service,Problem with customer service,account_management_and_servicing,current
+"Money transfer, virtual currency, or money service",Problems caused by my funds being low,Problems caused by my funds being low,fees_and_interest,legacy_kept
+"Money transfer, virtual currency, or money service",Trouble accessing funds in your mobile or digital wallet,Trouble accessing funds in your mobile or digital wallet,transactions_and_funds,current
+"Money transfer, virtual currency, or money service",Unauthorized transactions or other transaction problem,Unauthorized transactions or other transaction problem,fraud_and_unauthorized,current
+"Money transfer, virtual currency, or money service",Unauthorized transactions/trans. issues,Unauthorized transactions or other transaction problem,fraud_and_unauthorized,renamed
+"Money transfer, virtual currency, or money service",Unexpected or other fees,Unexpected or other fees,fees_and_interest,current
+"Money transfer, virtual currency, or money service",Unexpected/Other fees,Unexpected or other fees,fees_and_interest,renamed
+"Money transfer, virtual currency, or money service",Using a debit or ATM card,Using a debit or ATM card,transactions_and_funds,legacy_kept
+"Money transfer, virtual currency, or money service",Wrong amount charged or received,Wrong amount charged or received,payments_and_billing,current
+Mortgage,"Application, originator, mortgage broker",Applying for a mortgage or refinancing an existing mortgage,origination,renamed
+Mortgage,Applying for a mortgage or refinancing an existing mortgage,Applying for a mortgage or refinancing an existing mortgage,origination,current
+Mortgage,Closing on a mortgage,Closing on a mortgage,origination,current
+Mortgage,Credit decision / Underwriting,Applying for a mortgage or refinancing an existing mortgage,origination,renamed
+Mortgage,Credit monitoring or identity theft protection services,Credit monitoring or identity theft protection services,credit_report_access_and_use,current
+Mortgage,Improper use of your report,Improper use of your report,credit_report_access_and_use,current
+Mortgage,Incorrect information on your report,Incorrect information on your report,credit_report_accuracy,current
+Mortgage,"Loan modification,collection,foreclosure",Struggling to pay mortgage,hardship_and_default,renamed
+Mortgage,"Loan servicing, payments, escrow account",Trouble during payment process,payments_and_billing,renamed
+Mortgage,Other,Other,other,legacy_kept
+Mortgage,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,dispute_investigation,current
+Mortgage,Problem with a credit reporting company's investigation into an existing problem,Problem with a company's investigation into an existing problem,dispute_investigation,renamed
+Mortgage,Problem with credit report or credit score,Incorrect information on your report,credit_report_accuracy,renamed
+Mortgage,Problem with fraud alerts or security freezes,Problem with fraud alerts or security freezes,credit_report_access_and_use,current
+Mortgage,Settlement process and costs,Closing on a mortgage,origination,renamed
+Mortgage,Struggling to pay mortgage,Struggling to pay mortgage,hardship_and_default,current
+Mortgage,Trouble during payment process,Trouble during payment process,payments_and_billing,current
+Mortgage,Unable to get your credit report or credit score,Unable to get your credit report or credit score,credit_report_access_and_use,current
+"Payday loan, title loan, personal loan, or advance loan",Account terms and changes,Account terms and changes,account_management_and_servicing,legacy_kept
+"Payday loan, title loan, personal loan, or advance loan",Advertising and marketing,Confusing or misleading advertising or marketing,marketing_and_disclosures,renamed
+"Payday loan, title loan, personal loan, or advance loan",Applied for loan/did not receive money,"Was approved for a loan, but didn't receive the money",origination,renamed
+"Payday loan, title loan, personal loan, or advance loan",Can't contact lender,Can't contact lender or servicer,account_management_and_servicing,renamed
+"Payday loan, title loan, personal loan, or advance loan",Can't contact lender or servicer,Can't contact lender or servicer,account_management_and_servicing,current
+"Payday loan, title loan, personal loan, or advance loan",Can't stop charges to bank account,Can't stop withdrawals from your bank account,payments_and_billing,renamed
+"Payday loan, title loan, personal loan, or advance loan",Can't stop withdrawals from your bank account,Can't stop withdrawals from your bank account,payments_and_billing,current
+"Payday loan, title loan, personal loan, or advance loan",Charged bank acct wrong day or amt,Money was taken from your bank account on the wrong day or for the wrong amount,payments_and_billing,renamed
+"Payday loan, title loan, personal loan, or advance loan",Charged fees or interest I didn't expect,Charged fees or interest you didn't expect,fees_and_interest,renamed
+"Payday loan, title loan, personal loan, or advance loan",Charged fees or interest you didn't expect,Charged fees or interest you didn't expect,fees_and_interest,current
+"Payday loan, title loan, personal loan, or advance loan",Confusing or misleading advertising or marketing,Confusing or misleading advertising or marketing,marketing_and_disclosures,current
+"Payday loan, title loan, personal loan, or advance loan",Confusing or missing disclosures,Confusing or missing disclosures,marketing_and_disclosures,current
+"Payday loan, title loan, personal loan, or advance loan",Credit limit changed,Credit limit changed,account_management_and_servicing,current
+"Payday loan, title loan, personal loan, or advance loan",Credit monitoring or identity theft protection services,Credit monitoring or identity theft protection services,credit_report_access_and_use,current
+"Payday loan, title loan, personal loan, or advance loan",Customer service/Customer relations,Problem with customer service,account_management_and_servicing,renamed
+"Payday loan, title loan, personal loan, or advance loan",Disclosures,Confusing or missing disclosures,marketing_and_disclosures,renamed
+"Payday loan, title loan, personal loan, or advance loan",Excessive fees,Unexpected fees,fees_and_interest,renamed
+"Payday loan, title loan, personal loan, or advance loan",Fraud or scam,Fraud or scam,fraud_and_unauthorized,legacy_kept
+"Payday loan, title loan, personal loan, or advance loan",Getting a line of credit,Getting a line of credit,origination,current
+"Payday loan, title loan, personal loan, or advance loan",Getting the loan,Getting the loan,origination,current
+"Payday loan, title loan, personal loan, or advance loan",Improper use of your report,Improper use of your report,credit_report_access_and_use,current
+"Payday loan, title loan, personal loan, or advance loan",Incorrect information on your report,Incorrect information on your report,credit_report_accuracy,current
+"Payday loan, title loan, personal loan, or advance loan",Issues with repayment,Issues with repayment,hardship_and_default,current
+"Payday loan, title loan, personal loan, or advance loan",Lender damaged or destroyed property,Property was damaged or destroyed property,hardship_and_default,renamed
+"Payday loan, title loan, personal loan, or advance loan",Lender damaged or destroyed vehicle,Vehicle was damaged or destroyed the vehicle,hardship_and_default,renamed
+"Payday loan, title loan, personal loan, or advance loan",Lender repossessed or sold the vehicle,Vehicle was repossessed or sold the vehicle,hardship_and_default,renamed
+"Payday loan, title loan, personal loan, or advance loan",Lender sold the property,Property was sold,hardship_and_default,renamed
+"Payday loan, title loan, personal loan, or advance loan",Loan payment wasn't credited to your account,Loan payment wasn't credited to your account,payments_and_billing,current
+"Payday loan, title loan, personal loan, or advance loan",Lost or stolen check,Lost or stolen check,fraud_and_unauthorized,legacy_kept
+"Payday loan, title loan, personal loan, or advance loan",Lost or stolen refund,Lost or stolen refund,fraud_and_unauthorized,current
+"Payday loan, title loan, personal loan, or advance loan",Managing the line of credit,Managing the line of credit,account_management_and_servicing,legacy_kept
+"Payday loan, title loan, personal loan, or advance loan",Managing the loan or lease,Managing the loan or lease,account_management_and_servicing,legacy_kept
+"Payday loan, title loan, personal loan, or advance loan",Money was taken from your bank account on the wrong day or for the wrong amount,Money was taken from your bank account on the wrong day or for the wrong amount,payments_and_billing,current
+"Payday loan, title loan, personal loan, or advance loan",Payment to acct not credited,Loan payment wasn't credited to your account,payments_and_billing,renamed
+"Payday loan, title loan, personal loan, or advance loan",Problem when making payments,Problem when making payments,payments_and_billing,current
+"Payday loan, title loan, personal loan, or advance loan",Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,dispute_investigation,current
+"Payday loan, title loan, personal loan, or advance loan",Problem with a credit reporting company's investigation into an existing problem,Problem with a company's investigation into an existing problem,dispute_investigation,renamed
+"Payday loan, title loan, personal loan, or advance loan",Problem with additional add-on products or services,Problem with additional add-on products or services,account_management_and_servicing,current
+"Payday loan, title loan, personal loan, or advance loan",Problem with cash advance,Problem with cash advance,transactions_and_funds,current
+"Payday loan, title loan, personal loan, or advance loan",Problem with credit report or credit score,Incorrect information on your report,credit_report_accuracy,renamed
+"Payday loan, title loan, personal loan, or advance loan",Problem with customer service,Problem with customer service,account_management_and_servicing,current
+"Payday loan, title loan, personal loan, or advance loan",Problem with fraud alerts or security freezes,Problem with fraud alerts or security freezes,credit_report_access_and_use,current
+"Payday loan, title loan, personal loan, or advance loan",Problem with the payoff process at the end of the loan,Problem with the payoff process at the end of the loan,payments_and_billing,current
+"Payday loan, title loan, personal loan, or advance loan",Problems receiving the advance,Problems receiving the advance,origination,current
+"Payday loan, title loan, personal loan, or advance loan",Problems when you are unable to pay,Struggling to pay your loan,hardship_and_default,renamed
+"Payday loan, title loan, personal loan, or advance loan",Property was damaged or destroyed property,Property was damaged or destroyed property,hardship_and_default,current
+"Payday loan, title loan, personal loan, or advance loan",Property was sold,Property was sold,hardship_and_default,current
+"Payday loan, title loan, personal loan, or advance loan",Received a loan I didn't apply for,Received a loan you didn't apply for,fraud_and_unauthorized,renamed
+"Payday loan, title loan, personal loan, or advance loan",Received a loan you didn't apply for,Received a loan you didn't apply for,fraud_and_unauthorized,current
+"Payday loan, title loan, personal loan, or advance loan",Shopping for a line of credit,Getting a line of credit,origination,renamed
+"Payday loan, title loan, personal loan, or advance loan",Shopping for a loan or lease,Getting the loan,origination,renamed
+"Payday loan, title loan, personal loan, or advance loan",Struggling to pay your loan,Struggling to pay your loan,hardship_and_default,current
+"Payday loan, title loan, personal loan, or advance loan",Taking out the loan or lease,Getting the loan,origination,renamed
+"Payday loan, title loan, personal loan, or advance loan",Unable to get your credit report or credit score,Unable to get your credit report or credit score,credit_report_access_and_use,current
+"Payday loan, title loan, personal loan, or advance loan",Unexpected fees,Unexpected fees,fees_and_interest,current
+"Payday loan, title loan, personal loan, or advance loan",Unexpected or other fees,Unexpected fees,fees_and_interest,renamed
+"Payday loan, title loan, personal loan, or advance loan",Unexpected/Other fees,Unexpected fees,fees_and_interest,renamed
+"Payday loan, title loan, personal loan, or advance loan",Vehicle was damaged or destroyed the vehicle,Vehicle was damaged or destroyed the vehicle,hardship_and_default,current
+"Payday loan, title loan, personal loan, or advance loan",Vehicle was repossessed or sold the vehicle,Vehicle was repossessed or sold the vehicle,hardship_and_default,current
+"Payday loan, title loan, personal loan, or advance loan","Was approved for a loan, but didn't receive money","Was approved for a loan, but didn't receive the money",origination,renamed
+"Payday loan, title loan, personal loan, or advance loan","Was approved for a loan, but didn't receive the money","Was approved for a loan, but didn't receive the money",origination,current
+Prepaid card,Adding money,Trouble using the card,transactions_and_funds,renamed
+Prepaid card,Advertising,Advertising,marketing_and_disclosures,current
+Prepaid card,"Advertising, marketing or disclosures",Advertising,marketing_and_disclosures,renamed
+Prepaid card,Fees,Unexpected or other fees,fees_and_interest,renamed
+Prepaid card,Fraud or scam,Fraud or scam,fraud_and_unauthorized,legacy_kept
+Prepaid card,"Managing, opening, or closing account",Problem getting a card or closing an account,origination,renamed
+Prepaid card,Other,Other,other,legacy_kept
+Prepaid card,"Overdraft, savings or rewards features",Problem with overdraft,fees_and_interest,renamed
+Prepaid card,Problem getting a card or closing an account,Problem getting a card or closing an account,origination,current
+Prepaid card,Problem with a purchase or transfer,Problem with a purchase or transfer,payments_and_billing,current
+Prepaid card,Problem with an overdraft,Problem with overdraft,fees_and_interest,renamed
+Prepaid card,Problem with overdraft,Problem with overdraft,fees_and_interest,current
+Prepaid card,Trouble using the card,Trouble using the card,transactions_and_funds,current
+Prepaid card,Unauthorized transactions/trans. issues,Problem with a purchase or transfer,payments_and_billing,renamed
+Prepaid card,Unexpected or other fees,Unexpected or other fees,fees_and_interest,current
+Student loan,Can't repay my loan,Struggling to repay your loan,hardship_and_default,renamed
+Student loan,Credit monitoring or identity theft protection services,Credit monitoring or identity theft protection services,credit_report_access_and_use,current
+Student loan,Dealing with my lender or servicer,Dealing with your lender or servicer,account_management_and_servicing,renamed
+Student loan,Dealing with your lender or servicer,Dealing with your lender or servicer,account_management_and_servicing,current
+Student loan,Getting a loan,Getting a loan,origination,current
+Student loan,Improper use of your report,Improper use of your report,credit_report_access_and_use,current
+Student loan,Incorrect information on your report,Incorrect information on your report,credit_report_accuracy,current
+Student loan,Issue where my lender is my school,Issue where my lender is my school,account_management_and_servicing,current
+Student loan,Issue with income share agreement,Issue with income share agreement,account_management_and_servicing,current
+Student loan,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,dispute_investigation,current
+Student loan,Problem with a credit reporting company's investigation into an existing problem,Problem with a company's investigation into an existing problem,dispute_investigation,renamed
+Student loan,Problem with credit report or credit score,Incorrect information on your report,credit_report_accuracy,renamed
+Student loan,Problem with fraud alerts or security freezes,Problem with fraud alerts or security freezes,credit_report_access_and_use,current
+Student loan,Problems when you are unable to pay,Struggling to repay your loan,hardship_and_default,renamed
+Student loan,Repaying your loan,Repaying your loan,payments_and_billing,legacy_kept
+Student loan,Struggling to repay your loan,Struggling to repay your loan,hardship_and_default,current
+Student loan,Unable to get your credit report or credit score,Unable to get your credit report or credit score,credit_report_access_and_use,current
+Vehicle loan or lease,Credit monitoring or identity theft protection services,Credit monitoring or identity theft protection services,credit_report_access_and_use,current
+Vehicle loan or lease,Getting a loan or lease,Getting a loan or lease,origination,current
+Vehicle loan or lease,Improper use of your report,Improper use of your report,credit_report_access_and_use,current
+Vehicle loan or lease,Incorrect information on your report,Incorrect information on your report,credit_report_accuracy,current
+Vehicle loan or lease,Managing the loan or lease,Managing the loan or lease,account_management_and_servicing,current
+Vehicle loan or lease,Problem with a company's investigation into an existing problem,Problem with a company's investigation into an existing problem,dispute_investigation,current
+Vehicle loan or lease,Problem with a credit reporting company's investigation into an existing problem,Problem with a company's investigation into an existing problem,dispute_investigation,renamed
+Vehicle loan or lease,Problem with credit report or credit score,Incorrect information on your report,credit_report_accuracy,renamed
+Vehicle loan or lease,Problem with fraud alerts or security freezes,Problem with fraud alerts or security freezes,credit_report_access_and_use,current
+Vehicle loan or lease,Problems at the end of the loan or lease,Problems at the end of the loan or lease,account_management_and_servicing,current
+Vehicle loan or lease,Problems when you are unable to pay,Struggling to pay your loan,hardship_and_default,renamed
+Vehicle loan or lease,Repossession,Repossession,hardship_and_default,current
+Vehicle loan or lease,Shopping for a loan or lease,Getting a loan or lease,origination,renamed
+Vehicle loan or lease,Struggling to pay your loan,Struggling to pay your loan,hardship_and_default,current
+Vehicle loan or lease,Taking out the loan or lease,Getting a loan or lease,origination,renamed
+Vehicle loan or lease,Unable to get your credit report or credit score,Unable to get your credit report or credit score,credit_report_access_and_use,current

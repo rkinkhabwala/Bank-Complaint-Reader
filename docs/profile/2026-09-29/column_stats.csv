@@ -1,0 +1,16 @@
+column,null_count,distinct_count
+Date received,0,5415
+Product,0,21
+Sub-product,235275,86
+Issue,6,178
+Sub-issue,938098,272
+Company public response,8113311,11
+Company,0,8133
+State,62969,63
+ZIP code,2789,36914
+Tags,17249471,3
+Submitted via,0,6
+Date sent to company,0,5364
+Company response to consumer,21,8
+Timely response?,0,2
+Complaint ID,0,18062308
