@@ -84,7 +84,7 @@ def test_event_log_disagreeing_with_silver_is_flagged():
 
 
 def test_expectation_missing_from_event_log_is_flagged():
-    """Catches the case where view expectations aren't reported (TODO(verify) in silver.sql)."""
+    """Guards against view expectations silently not being reported in the event log."""
     f = clean_facts()
     del f.event_log_failed["valid_complaint_id"]
     assert failing(evaluate(f)) == ["expectation `valid_complaint_id` reported in event log"]

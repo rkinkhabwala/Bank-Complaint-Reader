@@ -36,6 +36,7 @@ VALUE_SET_COLUMNS = (
     "Tags",
     "Timely response?",
     "State",
+    "Company",  # input for company normalization / FDIC matching review (Milestone 2)
 )
 
 

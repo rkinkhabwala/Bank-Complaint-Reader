@@ -68,8 +68,8 @@ FROM STREAM read_files(
   escape              => '"',   -- RFC 4180 doubled quotes; Spark's default escape is '\'
   mode                => 'PERMISSIVE',
   inferColumnTypes    => false,  -- everything is a string unless hinted below
-  -- TODO(verify): backtick-quoted names with spaces in schemaHints. Spark DDL accepts them, but
-  -- the docs only show backticks for dotted names. Fallback: drop the hints and try_cast in silver.
+  -- Backtick-quoted names with spaces work in schemaHints: verified on the first run
+  -- (2026-09-30; bronze columns typed DATE/DATE/BIGINT, 0 rows in _rescued_data).
   schemaHints         => '`Date received` DATE, `Date sent to company` DATE, `Complaint ID` BIGINT',
   dateFormat          => 'yyyy-MM-dd',
   schemaEvolutionMode => 'rescue',

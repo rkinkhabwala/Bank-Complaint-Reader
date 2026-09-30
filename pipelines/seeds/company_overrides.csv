@@ -1,0 +1,14 @@
+company_key,entity_type,fdic_org_id,note
+TRANSUNIONINTERMEDIATEHOLDINGSINC,credit_bureau,,nationwide credit bureau (own peer group; 3 bureaus = 78% of complaints)
+EQUIFAXINC,credit_bureau,,nationwide credit bureau
+EXPERIANINFORMATIONSOLUTIONSINC,credit_bureau,,nationwide credit bureau
+USBANCORP,bank,1119794,FDIC HC 'U S BCORP'; bank 'U.S. Bank National Association' (CERT 6548)
+FIFTHTHIRDFINANCIALCORPORATION,bank,1070345,"FDIC HC 'FIFTH THIRD BCORP'; bank 'Fifth Third Bank, National Association' (CERT 6672)"
+TDBANKUSHOLDINGCOMPANY,bank,1238565,"FDIC HC 'TORONTO-DOMINION BANK THE'; banks 'TD Bank, N.A.' (CERT 18409) + 'TD Bank USA, N.A.' (CERT 33947)"
+HSBCNORTHAMERICAHOLDINGSINC,bank,1857108,"FDIC HC 'HSBC HOLDINGS PLC'; bank 'HSBC Bank USA, N.A.' (CERT 57890)"
+CITIZENSFINANCIALGROUPINC,bank,1132449,"FDIC HC 'CITIZENS FINANCIAL GROUP INC' (3 HCs share the name; this one owns 'Citizens Bank, N.A.' CERT 57957)"
+SANTANDERHOLDINGSUSAINC,bank,1239254,"FDIC HC 'BANCO SANTANDER SA'; bank 'Santander Bank, N.A.' (CERT 29950)"
+UNITEDSERVICESAUTOMOBILEASSOCIATION,bank,1447376,FDIC HC 'UNITED SERVICES AUTOMOBILE ASS' (truncated); bank 'USAA Federal Savings Bank' (CERT 32188)
+COMERICA,bank,,bank; no active FDIC record in snapshot 2026-06-30 (general knowledge: Comerica is a bank holding company)
+BBTCORPORATION,bank,,bank; no active FDIC record (general knowledge: BB&T was a bank holding company; last complaint 2020-02-28)
+BBVAFINANCIALCORPORATION,bank,,bank; no active FDIC record (general knowledge: BBVA USA bank holding company; last complaint 2021-08-26)

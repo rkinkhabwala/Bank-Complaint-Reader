@@ -34,6 +34,7 @@ Every design choice must fit within these limits (source: https://docs.databrick
 - Landing Volume: `/Volumes/complaint_radar/raw/landing/`
   - `bulk/`: unzipped bulk CSV part files, one folder per snapshot
   - `delta/`: daily API JSON files (Milestone 2+)
+  - `fdic/<quarter-end>/institutions.csv`: FDIC BankFind snapshot (peer groups)
   - `seeds/`: seed CSVs (for example `taxonomy_map.csv`) uploaded from `pipelines/seeds/`
   - `_manifests/`: `bulk_<snapshot>.json` (row counts, hashes), kept outside `bulk/` so Auto
     Loader never reads it as data
@@ -78,6 +79,7 @@ python setup/run_setup.py
 python -m ingest.download_bulk              # download, validate, split, upload (idempotent)
 python -m ingest.profile_bulk               # DuckDB profile -> docs/profile/<snap>/ + data_notes.md block
 python -m ingest.upload_seeds               # validate + upload pipelines/seeds/*.csv (taxonomy v1)
+python -m ingest.download_fdic              # FDIC active institutions -> landing/fdic/<quarter-end>/ (peer groups)
 
 # deploy + run
 databricks bundle validate -t dev

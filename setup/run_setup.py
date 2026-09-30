@@ -16,6 +16,11 @@ import os
 import sys
 from pathlib import Path
 
+# Run as a script (python setup/run_setup.py), so make the repo root importable for `ingest.*`
+# even when the editable install is not picked up (macOS marks .pth files in iCloud-synced
+# folders as hidden, and Python 3.12.13+ skips hidden .pth files).
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+
 SQL_FILE = Path(__file__).with_name("create_uc_objects.sql")
 LANDING_SUBDIRS = ("bulk", "delta", "seeds")
 

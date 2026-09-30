@@ -14,9 +14,9 @@
 -- second 18M-row write), and DROP ROW takes effect before the merge, so a dropped row can never
 -- overwrite a good version of the same complaint. Per-expectation pass/fail counts are reported
 -- for the view in the event log (flow_progress.data_quality).
--- TODO(verify): the temporary-view page doesn't show a streaming query inside the view; the
--- AUTO CDC page lists STREAM(view) as a valid source. If the first run rejects this, change the
--- view to CREATE PRIVATE STREAMING TABLE complaints_typed (same constraints).
+-- A streaming temporary view as the AUTO CDC source isn't shown on the temporary-view page, but
+-- it works: verified on the first run (2026-09-30). All six expectations below are reported
+-- in the event log, and their counts match direct counts in silver (python -m ingest.reconcile).
 --
 -- NULL semantics: the docs don't say how an expectation that evaluates to NULL is counted, so
 -- every constraint below is written to be TRUE/FALSE, never NULL.
